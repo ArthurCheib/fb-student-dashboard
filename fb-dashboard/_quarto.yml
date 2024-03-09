@@ -23,16 +23,10 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - section: "Slides das Aulas"
+      - section: "Visão Geral do Curso"
         contents:
-          - href: dias/dia-1.qmd
-            text: "Aula 1"
-          - href: dias/dia-2.qmd
-            text: "Aula 2"
-          - href: dias/dia-3.qmd
-            text: "Aula 3"
-          - href: dias/dia-4.qmd
-            text: "Aula 4"
+          - href: ementa.qmd
+            text: Ementa
 
 format:
   html:
@@ -46,5 +40,5 @@ format:
 
 freeze: auto
 
-editor: visual
+editor: source
 

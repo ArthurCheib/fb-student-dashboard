@@ -7,7 +7,10 @@ This page contains an outline of the topics, content, and assignments for the se
 Note that this schedule will be updated as the semester progresses, with all changes documented here. Belavista
 
 ::: column-screen-inset-right
-| Semana | Data | Tópico | In-class Coding | Slides | Practice Code |
+| Aula | Data | Tópico | In-class Coding | Slides | Practice Code |
 |:------:|--------|--------|:------:|:------:|:------:|:------:|
-| 1 | 9/3 | Introdução à Programação | [💻]() | [🖥]()  | [💻]() |
+| 1 | 27/2 | Introdução à Programação | [💻]() | [🖥](/aulas/slides-class-1.html "Class Slides"){aria-label="Aula 1"}  | [📖]() |
+| 2 | 29/2 | Functions and Variables | [💻]() | [🖥](/aulas/slides-class-2.html "Class Slides"){aria-label="Aula 2"}  | [📖]() |
+| 3 | 5/3 | Introdução à Programação | [💻]() | [🖥](/aulas/slides-class-3.html "Class Slides"){aria-label="Aula 3"}  | [📖]() |
+| 4 | 7/3 | Introdução à Programação | [💻]() | [🖥](/aulas/slides-class-4.html "Class Slides"){aria-label="Aula 4"}  | [📖]() |
 :::
