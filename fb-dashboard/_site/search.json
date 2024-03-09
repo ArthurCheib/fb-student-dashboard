@@ -2,15 +2,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Introdução à Programação - Belavista",
+    "title": "Disciplina de Introdução à Programação",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n10+10\n\n[1] 20"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nPrepare\nSlides\nAE\nLab\n\n\n\n\n\n\n\n1\n9/3\nIntrodução à Programação\nCódigo\nSlides\nWeekend’s coding\nLab"
   }
 ]

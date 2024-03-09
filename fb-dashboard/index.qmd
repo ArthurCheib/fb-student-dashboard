@@ -1,11 +1,13 @@
 ---
-title: "Introdução à Programação - Belavista"
+title: "Disciplina de Introdução à Programação"
 tbl-colwidths: [5,10,30,5,5,5,5]
 ---
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This page contains an outline of the topics, content, and assignments for the semester.
+Note that this schedule will be updated as the semester progresses, with all changes documented here.
 
-```{r}
-10+10
-```
+::: column-screen-inset-right
+| Week | Date | Topic | Prepare | Slides | AE | Lab |
+|:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| 1 | 9/3 | Introdução à Programação | Código | Slides | Weekend's coding | Lab |
+:::

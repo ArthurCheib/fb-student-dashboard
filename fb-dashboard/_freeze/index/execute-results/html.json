@@ -1,7 +1,7 @@
 {
-  "hash": "8b8dc2fd49efecacb52b7a860ee4e784",
+  "hash": "43ace95fcf69ccd58c844fd5160f94a1",
   "result": {
-    "markdown": "---\ntitle: \"Introdução à Programação - Belavista\"\ntbl-colwidths: [5,10,30,5,5,5,5]\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n10+10\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 20\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Disciplina de Introdução à Programação\"\ntbl-colwidths: [5,10,30,5,5,5,5]\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n10+10\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 20\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
