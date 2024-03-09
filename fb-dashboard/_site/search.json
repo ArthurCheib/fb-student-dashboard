@@ -4,6 +4,160 @@
     "href": "index.html",
     "title": "Disciplina de Introdução à Programação",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSemana\nData\nTópico\nIn-class Coding\nSlides\nPractice Code\n\n\n\n\n\n1\n9/3\nIntrodução à Programação\n💻\n🖥\n💻"
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses, with all changes documented here. Belavista\n\n\n\n\n\n\n\n\n\n\n\n\n\nSemana\nData\nTópico\nIn-class Coding\nSlides\nPractice Code\n\n\n\n\n\n1\n9/3\nIntrodução à Programação\n💻\n🖥\n💻"
+  },
+  {
+    "objectID": "dias/dia-1.html#min",
+    "href": "dias/dia-1.html#min",
+    "title": " Introdução à Programação ",
+    "section": "2min",
+    "text": "2min\n\n\nNome\nPorque Belavista?\nGrau de dificuldade esperado. Por quê?\nQual o seu Hot Take?\n\nMorar no Brasil é melhor do que morar nos EUA"
+  },
+  {
+    "objectID": "dias/dia-1.html#objetivos-da-disciplina",
+    "href": "dias/dia-1.html#objetivos-da-disciplina",
+    "title": " Introdução à Programação ",
+    "section": "Objetivos da Disciplina",
+    "text": "Objetivos da Disciplina\n\n\nFundamentos da lógica de programação\nDomínio Intermediário de Python\nDomínio Iniciante de R"
+  },
+  {
+    "objectID": "dias/dia-1.html#metodologia-de-ensino",
+    "href": "dias/dia-1.html#metodologia-de-ensino",
+    "title": " Introdução à Programação ",
+    "section": "Metodologia de Ensino",
+    "text": "Metodologia de Ensino\n\n\nExposição\n\nAulas presenciais\nVídeos-resumo\n\nPrática\n\nin-class coding\nlabs\nmini-projects"
+  },
+  {
+    "objectID": "dias/dia-1.html#ementa-da-disciplina-1",
+    "href": "dias/dia-1.html#ementa-da-disciplina-1",
+    "title": " Introdução à Programação ",
+    "section": "Ementa da Disciplina",
+    "text": "Ementa da Disciplina"
+  },
+  {
+    "objectID": "dias/dia-1.html#metodologia-de-ensino-1",
+    "href": "dias/dia-1.html#metodologia-de-ensino-1",
+    "title": " Introdução à Programação ",
+    "section": "Metodologia de Ensino",
+    "text": "Metodologia de Ensino\n\n\nPractice, practice, practice\nDiferentes fontes de conhecimento\nEsforço mínimo: cumprir o objetivo da disciplina\n\n45min/dia programando (3-4x por semana)\n\nEsforço intermediário: chegar ao nível pré-avançado\n\n1hr/dia (5x por semana)"
+  },
+  {
+    "objectID": "dias/dia-1.html#método-de-avaliação",
+    "href": "dias/dia-1.html#método-de-avaliação",
+    "title": " Introdução à Programação ",
+    "section": "Método de Avaliação",
+    "text": "Método de Avaliação\n\n\n10%: presença\n25%: labs de programação\n\nCinco labs ao todo - 5% cada\n\n30%: mini-projetos\n\nDois mini-projetos ao todo - 15% cada\n\n35%: projeto final"
+  },
+  {
+    "objectID": "dias/dia-1.html#material-disponível",
+    "href": "dias/dia-1.html#material-disponível",
+    "title": " Introdução à Programação ",
+    "section": "Material Disponível",
+    "text": "Material Disponível"
+  },
+  {
+    "objectID": "dias/dia-1.html#openai-chatgpt",
+    "href": "dias/dia-1.html#openai-chatgpt",
+    "title": " Introdução à Programação ",
+    "section": "OpenAI ChatGPT",
+    "text": "OpenAI ChatGPT\n\n\nÉ um ótimo tutor\nTeremos uma atividade focada em como utilizá-lo\nRisco!\nPrincípio: confiança\n\n\n\n\n Faculdade Belavista"
+  },
+  {
+    "objectID": "dias/dia-2.html#sobre-a-linguagem",
+    "href": "dias/dia-2.html#sobre-a-linguagem",
+    "title": " Introdução à Programação ",
+    "section": "Sobre a linguagem",
+    "text": "Sobre a linguagem\n\nGuido van Rossum - 1991\nSintaxe simples\nHigh-level language\nGerenciamento Automático de Memória\nPortabilidade\nComunidade\nData Science / Machine Learning"
+  },
+  {
+    "objectID": "dias/dia-2.html#gui---graphical-user-interface",
+    "href": "dias/dia-2.html#gui---graphical-user-interface",
+    "title": " Introdução à Programação ",
+    "section": "GUI - Graphical User Interface",
+    "text": "GUI - Graphical User Interface\n\nInteração com o software através de elementos visuais\n\nBotões & Ícones (etc.)\n\nUma Alternativa à CLI\n\nCommand Line Interface\n\nObjetivos\n\nFacilitar interação com usuário (mais intuitivo)\nInterface amigável"
+  },
+  {
+    "objectID": "dias/dia-2.html#ide---integrated-development-environment",
+    "href": "dias/dia-2.html#ide---integrated-development-environment",
+    "title": " Introdução à Programação ",
+    "section": "IDE - Integrated Development Environment",
+    "text": "IDE - Integrated Development Environment\n\nFacilitador na interação/desenvolvimento de software\nPlataforma abrangente (elementos visuais e de linguagem)\nObjetivos:\n\nIntegrar as ferramentas nececessárias à programação\nFacilitar o desenvolvimento de programas"
+  },
+  {
+    "objectID": "dias/dia-2.html#meu-primeiro-código",
+    "href": "dias/dia-2.html#meu-primeiro-código",
+    "title": " Introdução à Programação ",
+    "section": "Meu primeiro código",
+    "text": "Meu primeiro código\n\n\n# Isso é um comentário, não um código. Por quê?\n\n# R: Hashtags ('#') indicam ao interpretador algo não-código (= ignore)\n\n# Quase lá...\n\n\n–\n\n\n# Abaixo nós temos nossa primeira linha de código!\nprint('Hello, World!')\n\n\n–\n\nOutput:\n\n\n\n\nHello, World!"
+  },
+  {
+    "objectID": "dias/dia-2.html#criando-um-programa",
+    "href": "dias/dia-2.html#criando-um-programa",
+    "title": " Introdução à Programação ",
+    "section": "Criando um ‘Programa’",
+    "text": "Criando um ‘Programa’\n\nEm programação, programas são comandos escritos que especificam ações que o computador deve realizar:\n\nCálculos ou modelos matemáticos\nManipulação de Dados\nCriação de um softwares\n\nTodo conjunto de código (linhas de código escrito), em qualquer linguagem, pode ser considerado um programa.\nNome técnico: código-fonte (source code)\nNossos programas serão desenvolvidos em Python (linguagem) e eles possuirão finalidades diversas."
+  },
+  {
+    "objectID": "dias/dia-2.html#behind-the-scenes",
+    "href": "dias/dia-2.html#behind-the-scenes",
+    "title": " Introdução à Programação ",
+    "section": "Behind the scenes",
+    "text": "Behind the scenes\n\nRedigir o código fonte\n\n\nÉ o que entendemos por programar - escrever o código\n\n\nRodar o código fonte (clicar em Executar)\nInterpretador lê o código fonte e traduz para linguagem de máquinas (código binário)\nSistema Operacional (SO) recebe o código binário\nSO + Hardware Executam os comandos recebidos\nComputador gera o output esperado!"
+  },
+  {
+    "objectID": "dias/dia-2.html#decompondo-o-programa",
+    "href": "dias/dia-2.html#decompondo-o-programa",
+    "title": " Introdução à Programação ",
+    "section": "Decompondo o Programa",
+    "text": "Decompondo o Programa\n\n\n\n\n# Programa \nprint('Hello, World!')\n\n\n\n\n\n\n# Primeiro elemento: função\nprint\n\n\n\n\n\n\n\nO que é uma função?\n\nVerbos/Comandos e Ações pré-construídos (built-int)\nInputs, Comportamento e Outpus pré-estabelecidos\nInputs &gt; Behavior/Comportamento &gt; Outputs\nToda função possui: documentação\n\n\n\n\nA função print\n\nFunção que sabe como printar/publicar algo no console\nComo dizemos à essa função o que printar?"
+  },
+  {
+    "objectID": "dias/dia-2.html#section-1",
+    "href": "dias/dia-2.html#section-1",
+    "title": " Introdução à Programação ",
+    "section": "",
+    "text": "# Programa \nprint('Hello, World!')\n\n\n\n\n\n\n# Terceiro elemento: o(s) argumento(s)\n'Hello, World'\n\n\n\n\n\n\n\nArgumento\n\nNesse caso, passamos um texto como argumento\nComo sabemos que isso é um texto?\nSe encapsulado por aspas (‘single’, “double”) = str\nstr (more later)"
+  },
+  {
+    "objectID": "dias/dia-2.html#aprofundamento-função",
+    "href": "dias/dia-2.html#aprofundamento-função",
+    "title": " Introdução à Programação ",
+    "section": "Aprofundamento: Função",
+    "text": "Aprofundamento: Função\n\n\n## Entendo mais sobre funções\nprint('Hello, World!')\n\nHello, World!\n\n\n\n\n\n\n\n\n## O que mudou aqui?\nprint('Hello', 'World')\n\n## Default Parameter\n\nHello World\n\n\n\n\n\n\n\n\n## Positional argument\nprint('Hello', 'World', 'or', 'Hello', 'Brasil')\n\nHello World or Hello Brasil\n\n\n\n\n\n\n\n\n## Keyword argument\nprint('Hello', 'World', 'or', 'Hello', 'Brasil', sep='-')\n\nHello-World-or-Hello-Brasil"
+  },
+  {
+    "objectID": "dias/dia-2.html#argumentos",
+    "href": "dias/dia-2.html#argumentos",
+    "title": " Introdução à Programação ",
+    "section": "Argumentos",
+    "text": "Argumentos\n\nArgumentos podem ser:\n\nPositional arguments: associação posicional à parâmetros (argumentos que precisam ser passados para funação na ordem que os parâmetros estão definidos)\nKeyword arguments: associação explícita à parâmetros\nDefault parameter: possui um argumento padrão que será utilizado caso não façamos opção explícita por desligá-lo ou utilizá-lo com outro argumento"
+  },
+  {
+    "objectID": "dias/dia-2.html#debugging-depuração",
+    "href": "dias/dia-2.html#debugging-depuração",
+    "title": " Introdução à Programação ",
+    "section": "Debugging (Depuração)",
+    "text": "Debugging (Depuração)\n\n\n\n\n\n\n\n\nProcesso de identificar, rastrear e corrigir erros (“bugs”)\nForma de mantermos nosso programa funcionando como previsto\nGrande ajuda ao seu futuro eu\nIdentificar o Problema &gt; Localizar &gt; Corrigir\n\n\n\n\n## O que está errado aqui?\nprint('Meu primeiro programa'"
+  },
+  {
+    "objectID": "dias/dia-2.html#in-class-coding-1-1",
+    "href": "dias/dia-2.html#in-class-coding-1-1",
+    "title": " Introdução à Programação ",
+    "section": "In-class Coding #1",
+    "text": "In-class Coding #1"
+  },
+  {
+    "objectID": "dias/dia-2.html#o-que-é-uma-variável",
+    "href": "dias/dia-2.html#o-que-é-uma-variável",
+    "title": " Introdução à Programação ",
+    "section": "O que é uma variável?",
+    "text": "O que é uma variável?\n\n\n\n\n\nÉ um container onde armazenamos coisas (dados)\nUma variável é sempre composta de dois elementos:\n\nNome\nConteúdo\n\nEm Python: cria-se uma variável com o simbolo: = (igual)\n\n\n\n\n## Minha primeira variável\nvariavel = 'Belavista'\nendereco = 'Avenida Cardeal Arcoverde'\nvar_sem_acento = 'Nomes de variáveis não gostam de acentos!'\n# Snake_case\nvar_sem_espaco = 'E nem de espaços em branco'\nvar_intuitiva = 'Que o nome da var diga algo sobre o conteúdo'\nmeu_numero = 2024"
+  },
+  {
+    "objectID": "dias/dia-2.html#in-class-coding-2",
+    "href": "dias/dia-2.html#in-class-coding-2",
+    "title": " Introdução à Programação ",
+    "section": "In-class Coding #2",
+    "text": "In-class Coding #2\n\n\n Faculdade Belavista"
   }
 ]

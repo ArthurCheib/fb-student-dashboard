@@ -4,7 +4,7 @@ tbl-colwidths: [5,10,25,10,10,10,10]
 ---
 
 This page contains an outline of the topics, content, and assignments for the semester.
-Note that this schedule will be updated as the semester progresses, with all changes documented here.
+Note that this schedule will be updated as the semester progresses, with all changes documented here. Belavista
 
 ::: column-screen-inset-right
 | Semana | Data | Tópico | In-class Coding | Slides | Practice Code |
