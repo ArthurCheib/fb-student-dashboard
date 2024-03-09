@@ -1,13 +1,13 @@
 ---
 title: "Disciplina de Introdução à Programação"
-tbl-colwidths: [5,10,30,5,5,5,5]
+tbl-colwidths: [5,10,25,10,10,10,10]
 ---
 
 This page contains an outline of the topics, content, and assignments for the semester.
 Note that this schedule will be updated as the semester progresses, with all changes documented here.
 
 ::: column-screen-inset-right
-| Week | Date | Topic | Prepare | Slides | AE | Lab |
-|:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| 1 | 9/3 | Introdução à Programação | Código | Slides | Weekend's coding | Lab |
+| Semana | Data | Tópico | In-class Coding | Slides | Practice Code |
+|:------:|--------|--------|:------:|:------:|:------:|:------:|
+| 1 | 9/3 | Introdução à Programação | [💻]() | [🖥]()  | [💻]() |
 :::

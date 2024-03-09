@@ -12,6 +12,12 @@ website:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2024, Arthur Silva Cheib"
     background: "#409EE8"
+    
+  sidebar:
+    background: "#409EE8"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
   
 format:
   html:

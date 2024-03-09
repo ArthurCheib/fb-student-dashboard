@@ -1,0 +1,365 @@
+---
+title: "<span style='color:#FFC61A'> Introdução à Programação </span>"
+title-slide-attributes: 
+  data-background-image: images/matrix-class2.jpg
+  data-background-opacity: '0.75'
+subtitle: "<span style='color:#FFFFFF'> Aula 2 - Introduction to Python </span>"
+highlight-style: github
+format:
+  revealjs:
+    incremental: true
+    footer: "<span style='color:#66023C'> Faculdade Belavista </span>"
+    progress: true
+    menu: true
+    theme: simple
+    code-line-numbers: true
+    embed-resources: true
+---
+
+# [Python]{style="color:#85bae5"}
+
+## Sobre a linguagem {background-image="images/python-logo.png" background-opacity="0.20"}
+
+- Guido van Rossum - 1991
+- Sintaxe simples
+- High-level language
+- Gerenciamento Automático de Memória
+- Portabilidade
+- Comunidade
+- Data Science / Machine Learning
+
+# [Programando em Python]{style="color:#85bae5"}
+
+## GUI - Graphical User Interface {background-image="images/gui.png" background-opacity="0.20"}
+
+- Interação com o software através de **elementos visuais**
+  - Botões & Ícones (etc.)
+- Uma Alternativa à CLI
+  - *Command Line Interface*
+- Objetivos
+  - Facilitar interação com usuário (mais intuitivo)
+  - Interface amigável
+
+## IDE - Integrated Development Environment {background-image="images/ide.png" background-opacity="0.20"}
+
+- Facilitador na interação/desenvolvimento de software
+- Plataforma abrangente (elementos visuais e de linguagem)
+- Objetivos:
+  - Integrar as ferramentas nececessárias à programação
+  - Facilitar o desenvolvimento de programas
+
+## []{background-image="images/spider.png" background-opacity="1"}
+
+# [Programando!]{style="color:#85bae5"}
+
+## Meu primeiro código
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "|1|3|5"
+#| echo: true
+
+# Isso é um comentário, não um código. Por quê?
+
+# R: Hashtags ('#') indicam ao interpretador algo não-código (= ignore)
+
+# Quase lá...
+```
+:::
+
+--
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+# Abaixo nós temos nossa primeira linha de código!
+print('Hello, World!')
+```
+:::
+
+--
+
+:::{.fragment}
+Output:
+:::
+
+:::{.fragment}
+```{python}
+#| echo: false
+
+# Abaixo nós temos nossa primeira linha de código!
+print('Hello, World!')
+```
+:::
+
+## Criando um 'Programa' {.scrollable}
+
+- Em programação, programas são comandos escritos que especificam ações que o computador deve realizar:
+  - Cálculos ou modelos matemáticos
+  - Manipulação de Dados
+  - Criação de um softwares
+- Todo conjunto de código (linhas de código escrito), em qualquer linguagem, pode ser considerado um **programa**.
+- Nome técnico: código-fonte (*source code*)
+- Nossos programas serão desenvolvidos **em Python** (linguagem) e eles possuirão finalidades diversas.
+
+## Behind the scenes {background-image="images/machine-code.png" background-opacity=".10"}
+
+1. Redigir o código fonte
+  - É o que entendemos por **programar** - escrever o código
+2. Rodar o código fonte (clicar em **Executar**)
+3. Interpretador lê o código fonte e traduz para linguagem de máquinas (código binário)
+4. Sistema Operacional (SO) recebe o código binário
+5. SO + Hardware Executam os comandos recebidos
+6. Computador gera o output esperado!
+
+
+# [Voltando ao nosso primeiro programa...]{style="color:#85bae5"}
+
+<div style="margin-top: 30px;"></div>
+
+```{python}
+#| echo: true
+#| eval: false
+
+# Programa 
+print('Hello, World!')
+```
+
+## Decompondo o Programa {.scrollable}
+
+<div style="margin-top: 30px;"></div>
+
+```{python}
+#| echo: true
+#| eval: false
+#| code-line-numbers: "1,2|1"
+
+# Programa 
+print('Hello, World!')
+```
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+# Primeiro elemento: função
+print
+```
+:::
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+### O que é uma função?
+
+1) Verbos/Comandos e Ações pré-construídos (built-int)
+2) Inputs, Comportamento e Outpus pré-estabelecidos
+3) Inputs > Behavior/Comportamento > Outputs
+4) Toda função possui: **documentação**
+:::
+
+
+:::{.fragment}
+### A função `print`
+
+1) Função que sabe como printar/publicar algo no console
+2) Como dizemos à essa função o que printar?
+:::
+
+---
+
+```{python}
+#| echo: true
+#| eval: false
+#| code-line-numbers: "1,2|1"
+
+# Programa 
+print('Hello, World!')
+```
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+# Segundo elemento: parêntesis
+( )
+```
+:::
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+### Parêntesis
+
+1) **Parâmetros** (parameters): containers (*placeholders*) para os valores que atribuiremos
+2) **Argumentos:** valores reais que atribuímos à uma função quando ela for chamada
+:::
+
+## {.scrollable}
+
+```{python}
+#| echo: true
+#| eval: false
+#| code-line-numbers: "1,2|1"
+
+# Programa 
+print('Hello, World!')
+```
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+# Terceiro elemento: o(s) argumento(s)
+'Hello, World'
+```
+:::
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+### Argumento
+
+- Nesse caso, passamos um texto como argumento
+- Como sabemos que isso é um texto?
+- Se encapsulado por aspas ('single', "double") = str
+- `str` (more later)
+:::
+
+
+# [Funções]{style="color:#85bae5"}
+
+## Aprofundamento: Função {.scrollable}
+
+:::{.fragment}
+```{python}
+#| echo: true
+
+## Entendo mais sobre funções
+print('Hello, World!')
+```
+:::
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| code-line-numbers: "1,2|4|1,2,4"
+
+## O que mudou aqui?
+print('Hello', 'World')
+
+## Default Parameter
+```
+:::
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+
+## Positional argument
+print('Hello', 'World', 'or', 'Hello', 'Brasil')
+```
+:::
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "|"
+#| echo: true
+
+## Keyword argument
+print('Hello', 'World', 'or', 'Hello', 'Brasil', sep='-')
+```
+:::
+
+## Argumentos
+
+- Argumentos podem ser:
+  - **Positional arguments:** associação posicional à parâmetros (argumentos que precisam ser passados para funação na ordem que os parâmetros estão definidos)
+  - **Keyword arguments:** associação explícita à parâmetros
+  - **Default parameter:** possui um argumento padrão que será utilizado caso não façamos opção explícita por desligá-lo ou utilizá-lo com outro argumento
+
+## Debugging (Depuração)
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+<div style="margin-top: 30px;"></div>
+
+- Processo de identificar, rastrear e corrigir erros ("bugs")
+- Forma de mantermos nosso programa funcionando como previsto
+- Grande ajuda ao seu futuro eu
+- Identificar o Problema > Localizar > Corrigir
+
+:::
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1|2"
+#| echo: true
+#| eval: false
+
+## O que está errado aqui?
+print('Meu primeiro programa'
+```
+:::
+
+# [In-class Coding #1]{style="color:#3e424b"}
+
+- Metodologia
+  - Espere... respire...
+  - Anote primeiro, antes de começar a programar
+    1. Qual deve ser o meu **output final**? Requisitos
+    2. Qual o meu **input**?
+    3. Qual a **transformação** necessária do meu input?
+
+## [In-class Coding #1]{style="color:#3e424b"}{background-image="images/spider.png" background-opacity="1"}
+
+
+# [Variáveis]{style="color:#85bae5"}
+
+## O que é uma variável?
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+- É um container onde armazenamos coisas (dados)
+- Uma variável é sempre composta de dois elementos:
+  - Nome
+  - Conteúdo
+- Em Python: cria-se uma variável com o simbolo: `=` (igual)
+:::
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1|2|3|4|5,6|7|8"
+#| echo: true
+#| eval: false
+
+## Minha primeira variável
+variavel = 'Belavista'
+endereco = 'Avenida Cardeal Arcoverde'
+var_sem_acento = 'Nomes de variáveis não gostam de acentos!'
+# Snake_case
+var_sem_espaco = 'E nem de espaços em branco'
+var_intuitiva = 'Que o nome da var diga algo sobre o conteúdo'
+meu_numero = 2024
+```
+:::
+
+## [In-class Coding #2]{style="color:#3e424b"}{background-image="images/spider.png" background-opacity="1"}

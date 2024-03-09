@@ -1,0 +1,866 @@
+---
+title: "<span style='color:#FFC61A'> Introdução à Programação </span>"
+title-slide-attributes: 
+  data-background-image: images/matrix-class2.jpg
+  data-background-opacity: '0.75'
+subtitle: "<span style='color:#FFFFFF'> Aula 3 - Data Types & Operators </span>"
+highlight-style: github
+format:
+  revealjs:
+    incremental: true
+    footer: "<span style='color:#66023C'> Faculdade Belavista </span>"
+    progress: true
+    menu: true
+    theme: simple
+    code-line-numbers: true
+    embed-resources: true
+---
+
+# [Strings (`str`)]{style="color:#85bae5"}
+
+- Strings (`str`) are a type of data, encapsulated by quotes, supporting indexing, concatenation, and repetition.
+- `Strings` have methods like .split(), .upper(), .lower(), and .replace().
+- F-strings allow for dynamic string formatting with variable inclusion.
+- Integers (`int`) represent whole numbers and support basic mathematical operations.
+- Floats (`float`) represent real numbers with decimals, can be rounded, and compared with integers.
+- **Comparison operators** (==, !=, >, <, >=, <=) and **logical operators** (and, or, not) are used for evaluating conditions.
+- Comparisons result in boolean values (`True`, `False`).
+- **Variable coercion** involves converting one data type to another (str to int, int to str).
+- `Operators` are symbols or keywords that perform specific operations, like the assignment operator (=).
+
+---
+
+## `str` são encapsuladas por aspas
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1,2|4,5|7,8,9,10"
+#| echo: true
+#| eval: false
+
+# Single
+my_string1 = 'Hello, World!'
+
+## Double
+my_string2 = "Python é divertido."
+
+### Triple quotes
+my_string3 = """Esta é uma string
+        que abrange várias
+        linhas."""
+```
+:::
+
+
+---
+
+## `str` suportam indexação
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+- Indexação = acessar partes de um todo
+- Indexação de strings em Python: `[ ]`
+- *Zero-based indexing*
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Criando nossa string
+nome_faculdade = 'Belavista'
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Indexando o elemento de posição zero
+nome_faculdade[0]
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+
+```{python}
+#| echo: false
+#| eval: true
+
+## Criando nossa string
+nome_faculdade = 'Belavista'
+
+## Indexando o elemento de posição zero
+nome_faculdade[0]
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Indexando o elemento de posição 7
+nome_faculdade[6]
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Indexando o elemento de posição 8
+nome_faculdade[7]
+```
+:::
+
+---
+
+## `str` suportam concatenação e repetição
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+- Uso de operadores (realizam operações computacionais)
+- Símbolo adição `+`
+- Símbolo multiplicação `*`
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: true
+
+## Criando uma str concatenada
+nome_faculdade = 'Faculdade' + ' ' + 'Belavista'
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Multiplicando uma string
+'Belavista' * 3
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+
+```{python}
+#| echo: false
+#| eval: true
+
+## Multiplicando uma string
+'Belavista' * 3
+```
+:::
+
+---
+
+## `str` possuem 'métodos'
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+- Funções que pertencem a um objeto
+- Tais funções são definidas como pertencentes a uma classe - e estão associadas a objetos dessa classe
+- Como chamar um método? Ponto `.`
+- Cada objeto possui métodos próprios
+  - Ações que podem ser realizadas em um objeto
+:::
+
+---
+
+## `str` possuem 'métodos'
+
+<div style="margin-top: 10px;"></div>
+
+```{python}
+#| echo: true
+#| eval: false
+
+## Criando nossa string
+nome_faculdade = 'Faculdade Belavista'
+## Acessando o método `split` de uma string
+nome_faculdade.split(' ')
+```
+
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Acessando o método `split` de uma string
+nome_faculdade.split(' ')
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Acessando o método `upper` de uma string
+nome_faculdade.upper()
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Acessando o método `upper` de uma string
+nome_faculdade.upper()
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Acessando o método `lower` de uma string
+nome_faculdade.lower()
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Acessando o método `lower` de uma string
+nome_faculdade.lower()
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Acessando o método `replace` de uma string
+nome_faculdade.replace('Faculdade', 'Universidade')
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Acessando o método `replace` de uma string
+nome_faculdade.replace('Faculdade', 'Universidade')
+```
+:::
+
+---
+
+## `str` podem ser formatadas
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+- f-string method (*literal string interpolation*)
+- Maneira ágil de formatar strings (recente*)
+- Como? Prefixe `f` antes das aspas de uma `str`
+:::
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1,2|4,5,6,7"
+#| echo: true
+#| eval: false
+
+## Criando uma variável
+nome_faculdade = 'Belavista'
+
+## Criando uma mensagem, utilizando o método f-string, que
+## inclui uma variável dentro da string
+mensagem = f'Seja bem-vindo à Faculdade {nome_faculdade}'
+print(mensagem)
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Criando uma variável que pode assumir diferentes valores
+nome_faculdade = 'Belavista'
+
+## Criando uma mensagem, utilizando o método f-string, que
+##  se altera de acordo com o valor assumir por uma variável
+mensagem = f'Seja bem-vindo à Faculdade {nome_faculdade}'
+print(mensagem)
+```
+:::
+
+# [Integers (`int`)]{style="color:#85bae5"}
+
+- Outro tipo de dado em Python
+- `int` = representam números inteiros (sem frações)
+- `int` são usadas não somenete em operações matemáticas
+
+
+## `int` suportam operações matemáticas
+
+<div style="margin-top: 30px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Soma
+3 + 5
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Soma
+3 + 5
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Subtração
+100 - 10
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Subtração
+100 - 10
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Multiplicação
+3 * 5
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Multiplicação
+3 * 5
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Divisão
+15 / 3
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Divisão
+15 / 3
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Exponenciação
+3 ** 5
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Exponenciação
+3 ** 5
+
+```
+:::
+
+# [Floats (`int`)]{style="color:#85bae5"}
+
+- Outro tipo de dado em Python
+- `float` = conjuntos dos números reais (com decimais)
+- `float` são muito comuns em cálculos científicos
+
+## `float` podem ser arredondadas
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1,2,3|5,6,7"
+#| echo: true
+#| eval: false
+
+## Realizando um cálculo que resulte em uma float
+x = 10
+y = 3
+
+## Resultado
+z = x / y
+print(z)
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+# Realizando um cálculo que resulte em uma float
+x = 10
+y = 3
+
+# Calculate the result
+z = x / y
+print(z)
+```
+:::
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1,2,3|8,9,10"
+#| echo: true
+#| eval: false
+
+## Realizando um cálculo que resulte em uma float
+x = 10
+y = 3
+
+## Resultado
+z = x / y
+
+## Arredondamento
+z1 = round(z, 2)
+print(z1)
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+# Realizando um cálculo que resulte em uma float
+x = 10
+y = 3
+
+# Calculate the result
+z = x / y
+
+## Arredondamento
+z1 = round(z, 2)
+print(z1)
+```
+:::
+
+## `int` e `float` podem ser comparados!
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Criando variáveis numéricas
+x = 10
+y = 3/10
+
+## Comparando-as!
+x > y
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Criando variáveis numéricas
+x = 10
+y = 3/10
+
+## Comparando-as!
+x > y
+```
+:::
+
+:::{.fragment}
+- `True` ?
+:::
+
+# [Operators]{style="color:#85bae5"}
+
+- Realização de operações específicas (sem ser uma função)
+- Símbolos especiais
+- Palavras-chave
+- Já conhecemos um (o mais importante de todos)
+- Assignment Operator (`=`)
+
+## Comparison Operators
+
+:::{.fragment}
+- Igual: `==`
+- Diferente: `!=`
+- Maior que: `>`
+- Menor que: `<`
+- Maior ou igual a: `>=`
+- Menor ou igual a: `<=`
+:::
+
+## Comparison Operators
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Igual (==)
+10 == 10
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Igual (==)
+10 == 10
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Diferente (!=)
+10 != 3
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Diferente (!=)
+10 != 3
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## Menor que (<)
+10 < 3
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Menor que (<)
+10 < 3
+```
+:::
+
+## Logic Operators
+
+:::{.fragment}
+- `and`: True se ambas verdadeiras
+- `or`: True se ao menos uma verdadeira
+- `not`: Inverte o valor booleano da expressão
+- Existem outros tipos de operadores (later)
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## and
+10 > 5 and 3 > 0
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## and
+10 > 5 and 3 > 0
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## or
+10 == 5 or 3 != 2
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## or
+10 == 5 or 3 != 2
+```
+:::
+
+:::{.fragment}
+```{python}
+#| echo: true
+#| eval: false
+
+## not
+not(10 == 10)
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## not
+not(10 == 10)
+```
+:::
+
+## Comparisons result in `bool`!
+
+:::{.fragment}
+- Booleanos (`bool`)são outro tipo de dado!
+- O mais simples dos tipos, apenas: `True`, `False`
+- Relevant to know:
+  - `False` evaluate to `0`
+  - `True` evaluate to `1`
+  - Empty strings `""` are coerced to `False`
+  - Every non-empty string are coerced to `True`
+:::
+
+# [Coercing variables]{style="color:#85bae5"}
+
+- Se a variável `ano_nascimento` = `int`, então?
+- Coercing a `int` into `str`
+- Coercing a `str` into `int`
+- Coercing ('conversão') que sejam válidas!
+
+## Coercing an `int` into `str`
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+- Function to coerce numbers into string: `str`
+- Easy path: (quase) qualquer coisa pode ser uma string
+:::
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1,2|4,5|7,8"
+#| echo: true
+#| eval: false
+
+## Criando uma variável numérica inteira (int)
+minha_int = 30
+
+## Coercing it so it becomes a 'str'
+nova_str = str(minha_int)
+
+## Proving that it became a str
+print(f'Uma vez convertida, podemos apenas printar o numero {nova_str}!')
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Criando uma variável numérica inteira (int)
+minha_int = 30
+
+## Coercing it so it becomes a 'str'
+nova_str = str(minha_int)
+
+## Proving that it became a str
+print(f'Uma vez convertida, podemos apenas printar o numero {nova_str}!')
+```
+:::
+
+
+## Coercing an `str` into `int`
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+- Function to coerce a string into a number: `int`
+- Nós sabemos os símbolos que representam números
+- A máquina, nem sempre!
+:::
+
+:::{.fragment}
+```{python}
+#| code-line-numbers: "1,2,3|5,6|8,9"
+#| echo: true
+#| eval: false
+
+## Criando uma variável string (`str`)
+minha_str = '30'
+# Porque é uma string se eu sei que isso é o símbolo de um número?
+
+## Coercing it so it becomes a `int`
+nova_int = int(minha_str)
+
+## Proving that it became an `int`
+30 + nova_int
+```
+:::
+
+<div style="margin-top: 10px;"></div>
+
+:::{.fragment}
+```{python}
+#| echo: false
+#| eval: true
+
+## Criando uma variável string (str)
+# Porque é uma string se eu sei que isso é o símbolo de um número?
+minha_str = '30'
+
+## Coercing it so it becomes a 'int'
+nova_int = int(minha_str)
+
+## Proving that it became a int
+30 + nova_int
+```
+:::
+
+## [Recap!]{style="color:#3e424b"}{.scrollable}
+
+- **Strings** (`str`): Basic data type encapsulated by quotes, supporting indexing, concatenation, and methods.
+- **Indexing**: Accessing parts of strings using [ ], with zero-based indexing.
+- **Concatenation and Repetition:** Using + for joining strings and * for repeating strings.
+- **String Methods**: Functions like .split(), .upper(), .lower(), and .replace() to manipulate strings.
+- **Formatting Strings**: Using f-strings (f"") for embedding expressions within string literals.
+- Integers (`int`): Data type for whole numbers, supporting basic arithmetic operations.
+- Floats (`float`): Represent real numbers with decimals, can be rounded using round().
+- **Operators**: Include assignment (=), comparison (e.g., ==, !=, >, <), and logical (and, or, not) operators.
+- **Boolean Values**: Result from comparisons, with `True` and `False` as possible values.
+- **Type Coercion:** Converting between data types, like turning an int into a str with str() or a str into an int with int().
+
+
+## [In-class Coding #3]{style="color:#3e424b"}{background-image="images/spider.png" background-opacity="1"}
+
