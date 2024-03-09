@@ -7,10 +7,10 @@ This page contains an outline of the topics, content, and assignments for the se
 Note that this schedule will be updated as the semester progresses, with all changes documented here. Belavista
 
 ::: column-screen-inset-right
-| Aula | Data | Tópico | In-class Coding | Slides | Practice Code |
+| Aula | Data | Tópico | Slides | In-class Coding | Practice Code |
 |:------:|--------|--------|:------:|:------:|:------:|:------:|
-| 1 | 27/2 | Introdução à Programação | [💻]() | [🖥](/aulas/slides-class-1.html "Class Slides"){aria-label="Aula 1"}  | [📖]() |
-| 2 | 29/2 | Functions and Variables | [💻]() | [🖥](/aulas/slides-class-2.html "Class Slides"){aria-label="Aula 2"}  | [📖]() |
-| 3 | 5/3 | Introdução à Programação | [💻]() | [🖥](/aulas/slides-class-3.html "Class Slides"){aria-label="Aula 3"}  | [📖]() |
-| 4 | 7/3 | Introdução à Programação | [💻]() | [🖥](/aulas/slides-class-4.html "Class Slides"){aria-label="Aula 4"}  | [📖]() |
+| 1 | 27/2 | Introdução à Programação | [🖥](/aulas/slides-class-1.html "Class Slides 1"){aria-label="Aula 1"} | [💻](https://github.com/ArthurCheib/fb-student-dashboard/raw/main/fb-dashboard/in-class/in-class-coding_1.py)  | [📖]() |
+| 2 | 29/2 | Funções e Variáveis | [🖥](/aulas/slides-class-2.html "Class Slides 2"){aria-label="Aula 2"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_2.py)  | [📖]() |
+| 3 | 5/3 | Tipos de Dados & Operadores | [🖥](/aulas/slides-class-3.html "Class Slides 3"){aria-label="Aula 3"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_3.py)  | [📖]() |
+| 4 | 7/3 | Escrevendo Funções | [🖥](/aulas/slides-class-4.html "Class Slides 4"){aria-label="Aula 4"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_4.py)  | [📖]() |
 :::
