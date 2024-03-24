@@ -266,8 +266,8 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: center;">7</td>
 <td>19/3</td>
 <td>Loops: while</td>
-<td style="text-align: center;"><a href="./aulas/slides-class-7.html" aria-label="Aula 6" title="Class Slides 7">🖥</a></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><a href="./aulas/slides-class-7.html" aria-label="Aula 7" title="Class Slides 7">🖥</a></td>
+<td style="text-align: center;"><a href="https://github.com/ArthurCheib/fb-student-dashboard/raw/main/fb-dashboard/in-class/in-class-coding_7.py">💻</a></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -276,10 +276,20 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: center;">8</td>
 <td>22/3</td>
 <td>Loops: for</td>
-<td style="text-align: center;"><a href="./aulas/slides-class-8.html" aria-label="Aula 6" title="Class Slides 8">🖥</a></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><a href="./aulas/slides-class-8.html" aria-label="Aula 8" title="Class Slides 8">🖥</a></td>
+<td style="text-align: center;"><a href="https://github.com/ArthurCheib/fb-student-dashboard/raw/main/fb-dashboard/in-class/in-class-coding_7.py">💻</a></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><a href="https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/practice/lab1.py">📖</a></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">9</td>
+<td>26/3</td>
+<td>Data Structures: Dictionaires</td>
+<td style="text-align: center;"><a href="" aria-label="Aula 8">🖥</a></td>
+<td style="text-align: center;"><a href="">💻</a></td>
+<td style="text-align: center;"><a href="">📖</a></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -514,7 +524,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/arthur-cheib\.quarto\.pub\/faculdade-belavista");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

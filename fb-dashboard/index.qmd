@@ -9,12 +9,13 @@ Essa página funciona como um Hub para todos os documentos relevantes referentes
 | Aula | Data | Tópico | Slides | In-class Coding | Monitoria | Lab |
 |:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|
 | 1 | 27/2 | Introdução à Programação | [🖥](/aulas/slides-class-1.html "Class Slides 1"){aria-label="Aula 1"} | [💻](https://github.com/ArthurCheib/fb-student-dashboard/raw/main/fb-dashboard/in-class/in-class-coding_1.py)  | | |
-| 2 | 29/2 | Funções e Variáveis | [🖥](/aulas/slides-class-2.html "Class Slides 2"){aria-label="Aula 2"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_2.py)  | | |
-| 3 | 5/3 | Tipos de Dados & Operadores | [🖥](/aulas/slides-class-3.html "Class Slides 3"){aria-label="Aula 3"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_3.py)  | | |
-| 4 | 7/3 | Escrevendo Funções | [🖥](/aulas/slides-class-4.html "Class Slides 4"){aria-label="Aula 4"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_4.py)  | | |
+| 2 | 29/2 | Funções e Variáveis | [🖥](/aulas/slides-class-2.html "Class Slides 2"){aria-label="Aula 2"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_2.py) |
+| 3 | 5/3 | Tipos de Dados & Operadores | [🖥](/aulas/slides-class-3.html "Class Slides 3"){aria-label="Aula 3"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_3.py) |
+| 4 | 7/3 | Escrevendo Funções | [🖥](/aulas/slides-class-4.html "Class Slides 4"){aria-label="Aula 4"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_4.py) |
 | 5 | 12/3 | Conditionals | [🖥](/aulas/slides-class-5.html "Class Slides 5"){aria-label="Aula 5"} | [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_5.py)  | [📖](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/practice/practice-exercises.py) | |
 | 6 | 14/3 | Data Structures: Lists | [🖥](/aulas/slides-class-6.html "Class Slides 6"){aria-label="Aula 6"} | | | |
-| 7 | 19/3 | Loops: while | [🖥](/aulas/slides-class-7.html "Class Slides 7"){aria-label="Aula 6"} | | | |
-| 8 | 22/3 | Loops: for | [🖥](/aulas/slides-class-8.html "Class Slides 8"){aria-label="Aula 6"} | | | [📖](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/practice/lab1.py) |
+| 7 | 19/3 | Loops: while | [🖥](/aulas/slides-class-7.html "Class Slides 7"){aria-label="Aula 7"} | [💻](https://github.com/ArthurCheib/fb-student-dashboard/raw/main/fb-dashboard/in-class/in-class-coding_7.py) | | |
+| 8 | 22/3 | Loops: for | [🖥](/aulas/slides-class-8.html "Class Slides 8"){aria-label="Aula 8"} | [💻](https://github.com/ArthurCheib/fb-student-dashboard/raw/main/fb-dashboard/in-class/in-class-coding_7.py) | | [📖](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/practice/lab1.py) |
+| 9 | 26/3 | Data Structures: Dictionaires | [🖥](){aria-label="Aula 8"} | [💻]() | [📖]() |  |
 
 :::
