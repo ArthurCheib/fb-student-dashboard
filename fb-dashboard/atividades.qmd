@@ -14,12 +14,12 @@ Nessa aba se encontram todas as atividades avaliativas já disponibilizadas aos 
 | 12/3 | Python | Conditionals                        | 04 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_4.py) | | |
 | 4/3 | Python | Data Structures: Lists               | 05 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_5.py) | | |
 | 19/3 | Python | Loops: while                        | 06 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_6.py) | | |
-| 22/3 | Python | Loops: for                          |             | Lab 1 - [📖]() | |
+| 22/3 | Python | Loops: for                          |             | [Exercício]() + [Dados Prévios](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/labs/lab1-dados-previos.py) | |
 | 6/3 | Python | Data Structures: Dictionaires        | 07 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_7.py) | | |
 | 2/4 | Python | Input / Output Data                  | 08 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_8.py) | | |
 | 5/4 | Python | Input / Output Data                  | 09 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_9.py) | | |
 | 9/4 | Python | List Comprehension                   | 10 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_10.py) | | |
-| 12/4 | Python | Lambda Functions                    |             | Lab 2 - [📖]() | |
+| 12/4 | Python | Lambda Functions                    |             | [Exercício]() + [Dados Testes]() | |
 | 15/4 | Python | Data Structures: DataFrame          | 11 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_11.py) | | |
 | 7/5 | Python | Pandas III                           |  | | |
 | 10/5 | Python | Exceptions & Jupyter Notebooks      |  | | |
