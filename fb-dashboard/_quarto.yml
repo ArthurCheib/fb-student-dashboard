@@ -5,40 +5,17 @@ website:
   title: "Faculdade Belavista"
   navbar:
     left:
-      - href: index.qmd
-        text: Dashboard
-      
+      - text: "Cronograma da Matéria"
+        file: index.qmd
+      - text: "Atividades Avaliativas"
+        file: atividades.qmd
+      - text: "Material de Apoio"
+        file: material.qmd
+        
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2024, Arthur Silva Cheib"
+    left: "&copy; Copyright 2024, [Arthur Silva Cheib](https://www.linkedin.com/in/arthurcheib/) "
     background: "#409EE8"
-    
-  sidebar:
-    background: "#409EE8"
-    logo: "images/logo.png"
-    pinned: true
-    align: center
-  
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - section: "Visão Geral do Curso"
-        contents:
-          - href: ementa.qmd
-            text: Ementa
-
-format:
-  html:
-    theme:
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
-    mainfont: "Atkinson Hyperlegible"
-    code-copy: true
-    code-overflow: wrap
-    toc: true
-
-freeze: auto
 
 editor: source
 
