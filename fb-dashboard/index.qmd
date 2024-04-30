@@ -20,10 +20,10 @@ Essa página consiste em um Hub para todos os recursos relevantes referentes à 
 | 10 | 2/4 | Python | Input / Output Data | [🖥](/aulas/slides-class-10.html "Class Slides 10"){aria-label="Aula 10"} | #8 | | |
 | 11 | 5/4 | Python | Input / Output Data | [🖥](/aulas/slides-class-11.html "Class Slides 11"){aria-label="Aula 11"} | #9 | | |
 | 12 | 9/4 | Python | List Comprehension | [🖥](/aulas/slides-class-12.html "Class Slides 12"){aria-label="Aula 12"} | #10 | | |
-| 13 | 12/4 | Python | Lambda Functions | [🖥](){aria-label="Aula 13"} | | Lab 2 | |
-| 14 | 15/4 | Python | Data Structures: DataFrame | [Script]()  | #11 | | |
-| 15 | 19/4 | Python | Pandas I | [Script]() | | | |
-| 16 | 23/4 | Python | Pandas II | [Script]()  | | | |
+| 13 | 12/4 | Python | Lambda Functions | [🖥](/aulas/slides-class-13.html "Class Slides 13"){aria-label="Aula 12"} | | Lab 2 | |
+| 14 | 15/4 | Python | Data Structures: DataFrame | [🖥](/aulas/slides-class-14.html "Class Slides 14"){aria-label="Aula 12"}  | #11 | | |
+| 15 | 19/4 | Python | Pandas I | [Script 1]() + [Script 2]() | | | |
+| 16 | 23/4 | Python | Pandas II | [Script 1]() + [Script 2]()  | | | |
 | 17 | 7/5 | Python | Pandas III | [Script]()  | #12 | | |
 | 18 | 10/5 | Python | Exceptions & Jupyter Notebooks | [🖥](){aria-label="Aula 18"} | #13 | | |
 | 19 | 14/5 | Python | Pandas IV | | | | Mini-Project 1 |
