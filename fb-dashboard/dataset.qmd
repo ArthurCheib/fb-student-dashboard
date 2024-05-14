@@ -1,0 +1,9 @@
+---
+title: "Disciplina de Introdução à Programação"
+tbl-colwidths: [5,5,5,15,10,10,10]
+---
+
+Essa contém todos os conjuntos de dados utilizados em sala de aula
+
+- RJ Crimes Dataset: [download](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/datasets/datasets-crime.zip)
+- Gapminder Dataset: [download](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/datasets/gapminder.csv)

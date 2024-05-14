@@ -11,6 +11,8 @@ website:
         file: atividades.qmd
       - text: "Material de Apoio"
         file: material.qmd
+      - text: 'Datasets'
+        file: dataset.qmd
         
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."

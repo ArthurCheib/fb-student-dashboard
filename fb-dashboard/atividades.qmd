@@ -21,7 +21,7 @@ Nessa aba se encontram todas as atividades avaliativas já disponibilizadas aos 
 | 9/4 | Python | List Comprehension                   | 10 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_10.py) | | |
 | 12/4 | Python | Lambda Functions                    |             | [Exercício](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/labs/Lab2-prompt.pdf) + [Dados Testes](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/labs/lab2-dados-previos.py) | |
 | 15/4 | Python | Data Structures: DataFrame          | 11 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_11.py) | | |
-| 7/5 | Python | Pandas III                           |  | | |
+| 7/5 | Python | Pandas III                           | 12 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12.py) | | |
 | 10/5 | Python | Exceptions & Jupyter Notebooks      |  | | |
 | 14/5 | Python | Pandas IV                           |             | |  | 
 | 21/5 | R | Manipulation I: *dplyr*                  |  | | |
