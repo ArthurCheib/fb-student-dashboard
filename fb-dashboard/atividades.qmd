@@ -24,7 +24,7 @@ Nessa aba se encontram todas as atividades avaliativas já disponibilizadas aos 
 | 7/5 | Python | Pandas III                           | 12 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12.py) | | |
 | 10/5 | Python | Exceptions & Jupyter Notebooks      |  | | |
 | 14/5 | Python | Pandas IV                           |             | |  | 
-| 21/5 | R | Manipulation I: *dplyr*                  |  | | |
+| 21/5 | R | Manipulation I: *dplyr*                  | 12-13 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12-13.R) | | |
 | 24/5 | R | Manipulation II: *lubridate*             |  | | |
 | 28/5 | R | Manipulation III: *stringr* & *forcats*  |  | | |
 | 4/6 | R | Data Visualization I: *ggplot2*           |             |  | |

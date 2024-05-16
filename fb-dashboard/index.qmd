@@ -24,18 +24,18 @@ Essa página consiste em um Hub para todos os recursos relevantes referentes à 
 | 14 | 15/4 | Python | Data Structures: DataFrame | [🖥](/aulas/slides-class-14.html "Class Slides 14"){aria-label="Aula 12"}  | #11 | | |
 | 15 | 19/4 | Python | Pandas I | [Script 1](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15.py) + [Script 2](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15-i.py) | | | |
 | 16 | 23/4 | Python | Pandas II | [Script 1](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15-ii.py) + [Script 2](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class16-iii.py)  | | | |
-| 17 | 7/5 | Python | Pandas III | [Script]()  | #12 | | |
-| 18 | 10/5 | Python | Exceptions & Jupyter Notebooks | [🖥](){aria-label="Aula 18"} | #13 | | |
-| 19 | 14/5 | Python | Pandas IV | | | | Mini-Project 1 |
-| 20 | 17/5 | R | Introduction to Tidyverse | [🖥](/aulas/slides-class-20.html "Class Slides 20"){aria-label="Aula 20"} | | | |
-| 21 | 21/5 | R | Manipulation I: *dplyr* | [🖥](/aulas/slides-class-21.html "Class Slides 21"){aria-label="Aula 21"} | #14 | | |
-| 22 | 24/5 | R | Manipulation II: *lubridate* |  | #15 | | |
-| 23 | 28/5 | R | Manipulation III: *stringr* & *forcats* |  | #16 | | |
-| 24 | 4/6 | R | Data Visualization I: *ggplot2* |  | | Lab 3 | |
-| 25 | 7/6 | R | Data Visualization II: *ggplot2* |  | | | |
-| 26 | 11/6 | R | Functions and Conditionals |  | #17 | | |
-| 27 | 14/6 | R | Loops: for & while |  | #18 | | |
-| 28 | 18/6 | R | Data Visualization III: *leaflet* |  | #19 | | |
-| 29 | 19/6 | R | Presenting: Quarto I |  | | | |
-| 30 | 21/6 | R | Presenting: Quarto II |  |  | | Final Project |
+| 17 | 6/5 | Python | Pandas III | [Script]()  |  | | |
+| 18 |7/5 | R | Introduction to Tidyverse | [🖥](/aulas/slides-class-20.html "Class Slides 20"){aria-label="Aula 20"} | | | |
+| 19 | 14/5 | R | Data Manipulation I - *dplyr* | [🖥](/aulas/slides-class-21.html "Class Slides 21"){aria-label="Aula 21"} | #12-13  |  |
+| 20 | 17/5 | R | Data Manipulation & Viz - *joins* and *ggplot2* | [🖥](/aulas/slides-class-20.html "Class Slides 20"){aria-label="Aula 20"} | #14 | | |
+| 21 | 21/5 | R | Data Manipulation & Viz - more on *tidyverse* | [🖥](/aulas/slides-class-21.html "Class Slides 21"){aria-label="Aula 21"} | #15 | | |
+| 22 | 24/5 | R | Data Manipulation & Viz - *strings* and *dates*| | | Lab 3 | |
+| 23 | 28/5 | R | Maps in R I - leaflet | | | | |
+| 24 | 31/5 | R | Mini-Project | | #16 | | Mini-Project #1 |
+| 25 | 4/6 | R | Quarto - PDFs | | | | |
+| 26 | 7/6 | R | Quarto - presentations | | #16 | | |
+| 27 | 11/6 | R | Functions and Conditionals |  | #17-18 | | |
+| 28 | 14/6 | R | Loops: for & while |  | #19-20 | | |
+| 29 | 21/6 | R | Final Project |  |  | | Final Project |
+
 :::
