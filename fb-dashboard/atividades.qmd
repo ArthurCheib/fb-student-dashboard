@@ -6,28 +6,28 @@ tbl-colwidths: [5,5,10,5,5,5]
 Nessa aba se encontram todas as atividades avaliativas já disponibilizadas aos estudantes da disciplina de **Introdução à Programação**. A maior parte delas se encontra em formato de script.
 
 ::: column-screen-inset-right
-| Data | Linguagem | Tópico | In-class | Lab | Project | 
-|:------:|--------|--------|:------:|:------:|:------:|
-| 29/2 | Python | Functions & Variables               | 01 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_1.py) | | |
-| 5/3 | Python | Data Types & Operators               | 02 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_2.py) | | |
-| 7/3 | Python | Writing Functions                    | 03 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_3.py) | | |
-| 12/3 | Python | Conditionals                        | 04 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_4.py) | | |
-| 4/3 | Python | Data Structures: Lists               | 05 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_5.py) | | |
-| 19/3 | Python | Loops: while                        | 06 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_6.py) | | |
-| 22/3 | Python | Loops: for                          |             | [Exercício](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/labs/Lab1-prompt.pdf) + [Dados Prévios](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/labs/lab1-dados-previos.py) | |
-| 6/3 | Python | Data Structures: Dictionaires        | 07 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_7.py) | | |
-| 2/4 | Python | Input / Output Data                  | 08 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_8.py) | | |
-| 5/4 | Python | Input / Output Data                  | 09 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_9.py) | | |
-| 9/4 | Python | List Comprehension                   | 10 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_10.py) | | |
-| 12/4 | Python | Lambda Functions                    |             | [Exercício](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/labs/Lab2-prompt.pdf) + [Dados Testes](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/labs/lab2-dados-previos.py) | |
-| 15/4 | Python | Data Structures: DataFrame          | 11 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_11.py) | | |
-| 7/5 | Python | Pandas III                           | 12 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12.py) | | |
-| 10/5 | Python | Exceptions & Jupyter Notebooks      |  | | |
-| 14/5 | Python | Pandas IV                           |             | |  | 
-| 21/5 | R | Manipulation I: *dplyr*                  | 12-13 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12-13.R) | | |
+| Data | Linguagem | In-class | Lab | Project | 
+|:------:|--------|:------:|:------:|:------:|
+| 29/2 | Python  | 01 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_1.py) | | |
+| 5/3  | Python  | 02 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_2.py) | | |
+| 7/3  | Python  | 03 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_3.py) | | |
+| 12/3 | Python  | 04 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_4.py) | | |
+| 4/3  | Python  | 05 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_5.py) | | |
+| 19/3 | Python  | 06 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_6.py) | | |
+| 22/3 | Python  |  | [Exercício](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/labs/Lab1-prompt.pdf) + [Dados Prévios](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/labs/lab1-dados-previos.py) | |
+| 6/3  | Python  | 07 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_7.py) | | |
+| 2/4  | Python  | 08 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_8.py) | | |
+| 5/4  | Python  | 09 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_9.py) | | |
+| 9/4  | Python  | 10 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_10.py) | | |
+| 12/4 | Python  |  | [Exercício](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/labs/Lab2-prompt.pdf) + [Dados Testes](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/labs/lab2-dados-previos.py) | |
+| 15/4 | Python | 11 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_11.py) | | |
+| 7/5  | Python | 12 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12.py) | | |
+| 10/5 | Python |   | | |
+| 14/5 | Python |   | | | 
+| 21/5 | R | 12-13 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12-13.R) | | |
 | 24/5 | R | Manipulation II: *lubridate*             |  | | |
 | 28/5 | R | Manipulation III: *stringr* & *forcats*  |  | | |
-| 4/6 | R | Data Visualization I: *ggplot2*           |             |  | |
+| 4/6  | R | Data Visualization I: *ggplot2*           |             |  | |
 | 11/6 | R | Functions and Conditionals               |  | | |
 | 14/6 | R | Loops: for & while                       |  | | |
 | 18/6 | R | Data Visualization III: *leaflet*        |  | | |
