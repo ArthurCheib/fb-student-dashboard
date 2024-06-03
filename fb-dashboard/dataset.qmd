@@ -7,3 +7,4 @@ Essa contém todos os conjuntos de dados utilizados em sala de aula
 
 - RJ Crimes Dataset: [download](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/datasets/datasets-crime.zip)
 - Gapminder Dataset: [download](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/datasets/gapminder.csv)
+- Chicago Traffic Dataset: [download](https://github.com/ArthurCheib/fb-student-dashboard/blob/main/fb-dashboard/datasets/datasets-traffic-chicago.zip)

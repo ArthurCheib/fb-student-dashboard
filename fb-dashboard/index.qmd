@@ -27,14 +27,15 @@ Essa página consiste em um Hub para todos os recursos relevantes referentes à 
 | 17 | 6/5 | Python | Pandas III | [Script]()  |  | | |
 | 18 |7/5 | R | Introduction to Tidyverse | [🖥](/aulas/slides-class-20.html "Class Slides 20"){aria-label="Aula 20"} | | | |
 | 19 | 14/5 | R | Data Manipulation I - *dplyr* | [🖥](/aulas/slides-class-21.html "Class Slides 21"){aria-label="Aula 21"} | #12-13  |  |
-| 20 | 17/5 | R | Data Manipulation & Viz - *joins* and *ggplot2* | [🖥](/aulas/slides-class-20.html "Class Slides 20"){aria-label="Aula 20"} | #14 | | |
-| 21 | 21/5 | R | Data Manipulation & Viz - more on *tidyverse* | [🖥](/aulas/slides-class-21.html "Class Slides 21"){aria-label="Aula 21"} | #15 | | |
-| 22 | 24/5 | R | Data Manipulation & Viz - *strings* and *dates*| | | Lab 3 | |
-| 23 | 28/5 | R | Maps in R I - leaflet | | | | |
-| 24 | 31/5 | R | Mini-Project | | #16 | | Mini-Project #1 |
-| 25 | 4/6 | R | Quarto - PDFs | | | | |
-| 26 | 7/6 | R | Quarto - presentations | | #16 | | |
-| 27 | 11/6 | R | Functions and Conditionals |  | #17-18 | | |
+| 20 | 17/5 | R | Data Manipulation & Viz - *joins* and *ggplot2* | [🖥](/aulas/slides-class-22.html "Class Slides 22"){aria-label="Aula 22"} | #14 | | |
+| 21 | 21/5 | R | Data Manipulation & Viz - more on *tidyverse* | [🖥](/aulas/slides-class-23.html "Class Slides 23"){aria-label="Aula 23"} | #15 | | |
+| 22 | 24/5 | R | Data Manipulation & Viz - *strings* and *dates*| [🖥](/aulas/slides-class-23.html "Class Slides 23"){aria-label="Aula 23"} | #16-17 | | |
+| Extra | 24/5 | R | Joining Data in R | [🖥](/aulas/BV_program-joining-data-in-R.pdf "Class Slides Extra"){aria-label="Aula extra"} | | | |
+| 23 | 28/5 | R | Maps in R I - leaflet | | | Lab 3 | |
+| 24 | 31/5 | R | Mini-Project | | | | |
+| 25 | 4/6 | R | Quarto - PDFs | | | | Mini-Project #1 |
+| 26 | 7/6 | R | Quarto - presentations | | | | |
+| 27 | 11/6 | R | Functions and Conditionals |  | #18 | | |
 | 28 | 14/6 | R | Loops: for & while |  | #19-20 | | |
 | 29 | 21/6 | R | Final Project |  |  | | Final Project |
 

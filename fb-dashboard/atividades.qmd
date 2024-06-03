@@ -25,9 +25,9 @@ Nessa aba se encontram todas as atividades avaliativas já disponibilizadas aos 
 | 10/5 | Python |   | | |
 | 14/5 | Python |   | | | 
 | 21/5 | R | 12-13 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_12-13.R) | | |
-| 24/5 | R | Manipulation II: *lubridate*             |  | | |
-| 28/5 | R | Manipulation III: *stringr* & *forcats*  |  | | |
-| 4/6  | R | Data Visualization I: *ggplot2*           |             |  | |
+| 24/5 | R | 14 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_14.R) | | |
+| 28/5 | R | 15 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_15.R) | | |
+| 4/6  | R | 16 - [💻](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/in-class/in-class-coding_16.R)|  | |
 | 11/6 | R | Functions and Conditionals               |  | | |
 | 14/6 | R | Loops: for & while                       |  | | |
 | 18/6 | R | Data Visualization III: *leaflet*        |  | | |
