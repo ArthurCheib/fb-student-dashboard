@@ -1,6 +1,5 @@
 ---
 title: "Disciplina de Introdução à Programação"
-tbl-colwidths: [5,5,5,15,10,10,10]
 ---
 
 Essa contém todos os conjuntos de dados utilizados em sala de aula

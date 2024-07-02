@@ -3,40 +3,38 @@ title: "Disciplina de Introdução à Programação"
 tbl-colwidths: [5,5,5,12,5,5,5]
 ---
 
-Essa página consiste em um Hub para todos os recursos relevantes referentes à disciplina de **Introdução à Programação**, lecionada para os alunos do curso de **Ciências Econômicas** da [Faculade Belavista](https://faculdadebelavista.edu.br/).
+Hub para todos os recursos relevantes referentes à disciplina de **Introdução à Programação**, lecionada para os alunos do curso de **Ciências Econômicas** da [Faculade Belavista](https://faculdadebelavista.edu.br/), no primeiro semestre de 2024.
 
 ::: column-screen-inset-right
-| Aula | Data | Linguagem | Tópico | Slides | In-class | Lab | Project | 
-|:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|
-| 1 | 27/2 | Python | Introduction to Programming | [🖥](/aulas/slides-class-1.html "Class Slides 1"){aria-label="Aula 1"} |  | | |
-| 2 | 29/2 | Python | Functions and Variables | [🖥](/aulas/slides-class-2.html "Class Slides 2"){aria-label="Aula 2"} | #1 | | |
-| 3 | 5/3 | Python | Data Types & Operators | [🖥](/aulas/slides-class-3.html "Class Slides 3"){aria-label="Aula 3"} | #2 | | |
-| 4 | 7/3 | Python | Writing Functions| [🖥](/aulas/slides-class-4.html "Class Slides 4"){aria-label="Aula 4"} | #3 | | |
-| 5 | 12/3 | Python | Conditionals | [🖥](/aulas/slides-class-5.html "Class Slides 5"){aria-label="Aula 5"} | #4 | | |
-| 6 | 14/3 | Python | Data Structures: Lists | [🖥](/aulas/slides-class-6.html "Class Slides 6"){aria-label="Aula 6"} | #5 | | |
-| 7 | 19/3 | Python | Loops: while | [🖥](/aulas/slides-class-7.html "Class Slides 7"){aria-label="Aula 7"} | #6 | | |
-| 8 | 22/3 | Python | Loops: for | [🖥](/aulas/slides-class-8.html "Class Slides 8"){aria-label="Aula 8"} | | Lab 1 | |
-| 9 | 26/3 | Python | Data Structures: Dictionaires | [🖥](/aulas/slides-class-9.html "Class Slides 9"){aria-label="Aula 9"} | #7 | | |
-| 10 | 2/4 | Python | Input / Output Data | [🖥](/aulas/slides-class-10.html "Class Slides 10"){aria-label="Aula 10"} | #8 | | |
-| 11 | 5/4 | Python | Input / Output Data | [🖥](/aulas/slides-class-11.html "Class Slides 11"){aria-label="Aula 11"} | #9 | | |
-| 12 | 9/4 | Python | List Comprehension | [🖥](/aulas/slides-class-12.html "Class Slides 12"){aria-label="Aula 12"} | #10 | | |
-| 13 | 12/4 | Python | Lambda Functions | [🖥](/aulas/slides-class-13.html "Class Slides 13"){aria-label="Aula 12"} | | Lab 2 | |
-| 14 | 15/4 | Python | Data Structures: DataFrame | [🖥](/aulas/slides-class-14.html "Class Slides 14"){aria-label="Aula 12"}  | #11 | | |
-| 15 | 19/4 | Python | Pandas I | [Script 1](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15.py) + [Script 2](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15-i.py) | | | |
-| 16 | 23/4 | Python | Pandas II | [Script 1](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15-ii.py) + [Script 2](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class16-iii.py)  | | | |
-| 17 | 6/5 | Python | Pandas III | [Script]()  |  | | |
-| 18 |7/5 | R | Introduction to Tidyverse | [🖥](/aulas/slides-class-20.html "Class Slides 20"){aria-label="Aula 20"} | | | |
-| 19 | 14/5 | R | Data Manipulation I - *dplyr* | [🖥](/aulas/slides-class-21.html "Class Slides 21"){aria-label="Aula 21"} | #12-13  |  |
-| 20 | 17/5 | R | Data Manipulation & Viz - *joins* and *ggplot2* | [🖥](/aulas/slides-class-22.html "Class Slides 22"){aria-label="Aula 22"} | #14 | | |
-| 21 | 21/5 | R | Data Manipulation & Viz - more on *tidyverse* | [🖥](/aulas/slides-class-23.html "Class Slides 23"){aria-label="Aula 23"} | #15 | | |
-| 22 | 24/5 | R | Data Manipulation & Viz - *strings* and *dates*| [🖥](/aulas/slides-class-23.html "Class Slides 23"){aria-label="Aula 23"} | #16-17 | | |
-| Extra | 24/5 | R | Joining Data in R | [🖥](/aulas/BV_program-joining-data-in-R.pdf "Class Slides Extra"){aria-label="Aula extra"} | | | |
-| 23 | 28/5 | R | Maps in R I - leaflet | | | Lab 3 | |
-| 24 | 31/5 | R | Mini-Project | | | | |
-| 25 | 4/6 | R | Quarto - PDFs | | | | Mini-Project #1 |
-| 26 | 7/6 | R | Quarto - presentations | | | | |
-| 27 | 11/6 | R | Functions and Conditionals |  | #18 | | |
-| 28 | 14/6 | R | Loops: for & while |  | #19-20 | | |
-| 29 | 21/6 | R | Final Project |  |  | | Final Project |
-
+| Aula | Data | Linguagem | Tópico | Slides |
+|:------:|--------|--------|:------:|:------:|
+| 1 | 27/2 | Python | Introduction to Programming | [🖥](/aulas/slides-class-1.html "Class Slides 1"){aria-label="Aula 1"} |
+| 2 | 29/2 | Python | Functions and Variables | [🖥](/aulas/slides-class-2.html "Class Slides 2"){aria-label="Aula 2"} |
+| 3 | 5/3 | Python | Data Types & Operators | [🖥](/aulas/slides-class-3.html "Class Slides 3"){aria-label="Aula 3"} |
+| 4 | 7/3 | Python | Writing Functions| [🖥](/aulas/slides-class-4.html "Class Slides 4"){aria-label="Aula 4"} |
+| 5 | 12/3 | Python | Conditionals | [🖥](/aulas/slides-class-5.html "Class Slides 5"){aria-label="Aula 5"} |
+| 6 | 14/3 | Python | Data Structures: Lists | [🖥](/aulas/slides-class-6.html "Class Slides 6"){aria-label="Aula 6"} |
+| 7 | 19/3 | Python | Loops: while | [🖥](/aulas/slides-class-7.html "Class Slides 7"){aria-label="Aula 7"} |
+| 8 | 22/3 | Python | Loops: for | [🖥](/aulas/slides-class-8.html "Class Slides 8"){aria-label="Aula 8"} |
+| 9 | 26/3 | Python | Data Structures: Dictionaires | [🖥](/aulas/slides-class-9.html "Class Slides 9"){aria-label="Aula 9"} |
+| 10 | 2/4 | Python | Input / Output Data | [🖥](/aulas/slides-class-10.html "Class Slides 10"){aria-label="Aula 10"} |
+| 11 | 5/4 | Python | Input / Output Data | [🖥](/aulas/slides-class-11.html "Class Slides 11"){aria-label="Aula 11"} |
+| 12 | 9/4 | Python | List Comprehension | [🖥](/aulas/slides-class-12.html "Class Slides 12"){aria-label="Aula 12"} |
+| 13 | 12/4 | Python | Lambda Functions | [🖥](/aulas/slides-class-13.html "Class Slides 13"){aria-label="Aula 12"} |
+| 14 | 15/4 | Python | Data Structures: DataFrame | [🖥](/aulas/slides-class-14.html "Class Slides 14"){aria-label="Aula 12"} |
+| 15 | 19/4 | Python | Pandas I | [Script 1](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15.py) + [2](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15-i.py) |
+| 16 | 23/4 | Python | Pandas II | [Script 1](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class15-ii.py) + [2](https://raw.githubusercontent.com/ArthurCheib/fb-student-dashboard/main/fb-dashboard/aulas/class16-iii.py)  |
+| 17 | 6/5 | Python | Pandas III | [Script]()  |
+| 18 |7/5 | R | Introduction to Tidyverse | [🖥](/aulas/slides-class-20.html "Class Slides 20"){aria-label="Aula 20"} |
+| 19 | 14/5 | R | *dplyr* useful functions | [🖥](/aulas/slides-class-21.html "Class Slides 21"){aria-label="Aula 21"} |
+| 20 | 17/5 | R | *joins* and *ggplot2* | [🖥](/aulas/slides-class-22.html "Class Slides 22"){aria-label="Aula 22"} |
+| 21 | 21/5 | R | more on *tidyverse* | [🖥](/aulas/slides-class-23.html "Class Slides 23"){aria-label="Aula 23"} |
+| 22 | 24/5 | R | *strings* and *dates*| [🖥](/aulas/slides-class-23.html "Class Slides 23"){aria-label="Aula 23"} |
+| Extra | 24/5 | R | Joining Data in R | [🖥](/aulas/BV_program-joining-data-in-R.pdf "Class Slides Extra"){aria-label="Aula extra"} |
+| 23 | 28/5 | R | Maps in R I - leaflet |
+| 24 | 4/6 | R | Quarto - PDFs |
+| 25 | 7/6 | R | Quarto - presentations |
+| 26 | 11/6 | R | Functions and Conditionals |
+| 27 | 14/6 | R | Loops: for & while |
+| 28 | 21/6 | R | Final Project |
 :::

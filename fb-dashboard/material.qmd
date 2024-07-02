@@ -3,42 +3,42 @@ title: "Disciplina de Introdução à Programação"
 tbl-colwidths: [5,5,5,15,10,10,10]
 ---
 
-Essa aba foi introduzida a partir do feedback dos alunos acerca do **Material de Apoio** disponível para a disciplina Ela contém os seguintes recursos, distribuiídos para cada parte da segunda etapa da matéria:
+**Material de Apoio** disponível para a disciplina. Contém os seguintes recursos, distribuiídos para cada parte da segunda etapa da matéria:
 
 - **Material de Leitura** para cada tópico
 - **Exercícios** e desafios de progrmação para treinar
 - **Conceitos** das duas linguagens para estudo (prompts feitos pelo professor ao chatGPT)
 
 ::: column-screen-inset-right
-| Data |Linguagem/Tópico | Material de Leitura | Conceitos (ChatGPT) |
-|:------:|--------|--------|:------:|:------:|:------:|:------:|
-| 29/2 | Python - Functions and Variables             | [O que são `variables`?](https://www.youtube.com/watch?v=LKFrQXaoSMQ)                                  | []() |
-| 5/3 | Python - Data Types & Operators               | [Alguns tipos de dados](https://pythonacademy.com.br/blog/tipos-de-variaveis-no-python)                | []() |
-| 7/3 | Python - Writing Functions                    | [Como escrever funções?](https://docs.python.org/pt-br/3/tutorial/controlflow.html#defining-functions) | []() |
-| 12/3 | Python - Conditionals                        | [Como escrever `if-else-elif`](https://pythonacademy.com.br/blog/estruturas-condicionais-no-python)    | []() |
-| 14/3 | Python - Data Structures: Lists              | [O que são listas?](https://docs.python.org/pt-br/3/tutorial/introduction.html#lists)                  | []() |
-| 19/3 | Python - Loops: while                        | [Escrevendo `while` Loops](https://www.youtube.com/watch?v=rRTjPnVooxE)                                | []() |
-| 22/3 | Python - Loops: for                          | [Escrevendo `for` loops](https://www.w3schools.com/python/python_for_loops.asp)                        | []() |
-| 26/3 | Python - Data Structures: Dictionaires       | [O que são dicionários?](https://docs.python.org/pt-br/3/tutorial/datastructures.html#dictionaries)    | []() |
-| 2/4 | Python - Input / Output Data                  | [Guia `File I/O`](https://cs50.harvard.edu/python/2022/notes/6/)                                       | []() |
-| 5/4 | Python - Input / Output Data                  | [Guia `File I/O`](https://cs50.harvard.edu/python/2022/notes/6/)                                       | []() |
-| 9/4 | Python - List Comprehension                   | [O que são `Lists Comprehension`?](https://www.w3schools.com/python/python_lists_comprehension.asp)    | []() |
-| 12/4 | Python - Lambda Functions                    | [Usando `lambda` functions](https://www.w3schools.com/python/python_lambda.asp)                        | []() |
-| 15/4 | Python - Data Structures: DataFrame          | [Sobre `DataFrames`](https://www.w3schools.com/python/pandas/pandas_dataframes.asp)                    | []() |
-| 19/4 | Python - Pandas I                            | [Intro to Pandas](https://wesmckinney.com/book/pandas-basics)                                          | []() |
-| 23/4 | Python - Pandas II                           | [Manipulating Data](https://wesmckinney.com/book/data-cleaning)                                        | []() |
-| 6/5 | Python - Pandas III                           | [Reshaping and Merging data](https://wesmckinney.com/book/data-wrangling)                              | []() |
-| 7/5 | R - Introduction to Tidyverse                           | [Mais sobre manipulação de dados](https://www.youtube.com/watch?v=_T8LGqJtuGc&t=23s)                   | []() |
-| 14/5 | R - Data Manipulation & Viz - *joins* and *ggplot2*    | [Introduction to `Tidyverse`](https://chat.openai.com/share/b7183cba-6be9-4548-8022-d8c36cc0c9be)      | []() |
-| 17/5 | R - Manipulation I: *dplyr*                            | [`dplyr` cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf)         | []() |
-| 21/5 | R - Data Manipulation & Viz - more on *tidyverse*      | []()                                                                                       | []() |
-| 24/5 | R - Data Manipulation & Viz - *strings* and *dates*    | []()                                                                                       | []() |
-| 28/5 | R - Data Manipulation & Viz - more on *tidyverse*      | []()                                                                                       | []() |
-| 31/6 | R - Data Manipulation & Viz - *strings* and *dates*    | []()                                                                                       | []() |
-| 7/6 | R - Maps in R I - leaflet                     | []()                                                                                                   | []() |
-| 11/6 | R - Quarto - PDFs                            | []()                                                                                                   | []() | 
-| 14/6 | R - Quarto - Presentations                   | []()                                                                                                   | []() |
-| 18/6 | R - Functions and Conditionals               | []()                                                                                                   | []() |
-| 19/6 | R - Loops in R I                             | []()                                                                                                   | []() |
-| 21/6 | R - Loops in R II                            | []()                                                                                                   | []() |
+Linguagem/Tópico | Leitura pré-classe | Conceitos (ChatGPT) |
+|:------:|:------:|:------:|
+| Python - Functions and Variables             | [O que são `variables`?](https://www.youtube.com/watch?v=LKFrQXaoSMQ)                                  | []() |
+| Python - Data Types & Operators               | [Alguns tipos de dados](https://pythonacademy.com.br/blog/tipos-de-variaveis-no-python)                | []() |
+| Python - Writing Functions                    | [Como escrever funções?](https://docs.python.org/pt-br/3/tutorial/controlflow.html#defining-functions) | []() |
+| Python - Conditionals                        | [Como escrever `if-else-elif`](https://pythonacademy.com.br/blog/estruturas-condicionais-no-python)    | []() |
+| Python - Data Structures: Lists              | [O que são listas?](https://docs.python.org/pt-br/3/tutorial/introduction.html#lists)                  | []() |
+| Python - Loops: while                        | [Escrevendo `while` Loops](https://www.youtube.com/watch?v=rRTjPnVooxE)                                | []() |
+| Python - Loops: for                          | [Escrevendo `for` loops](https://www.w3schools.com/python/python_for_loops.asp)                        | []() |
+| Python - Data Structures: Dictionaires       | [O que são dicionários?](https://docs.python.org/pt-br/3/tutorial/datastructures.html#dictionaries)    | []() |
+| Python - Input / Output Data                  | [Guia `File I/O`](https://cs50.harvard.edu/python/2022/notes/6/)                                       | []() |
+| Python - Input / Output Data                  | [Guia `File I/O`](https://cs50.harvard.edu/python/2022/notes/6/)                                       | []() |
+| Python - List Comprehension                   | [O que são `Lists Comprehension`?](https://www.w3schools.com/python/python_lists_comprehension.asp)    | []() |
+| Python - Lambda Functions                    | [Usando `lambda` functions](https://www.w3schools.com/python/python_lambda.asp)                        | []() |
+| Python - Data Structures: DataFrame          | [Sobre `DataFrames`](https://www.w3schools.com/python/pandas/pandas_dataframes.asp)                    | []() |
+| Python - Pandas I                            | [Intro to Pandas](https://wesmckinney.com/book/pandas-basics)                                          | []() |
+| Python - Pandas II                           | [Manipulating Data](https://wesmckinney.com/book/data-cleaning)                                        | []() |
+| Python - Pandas III                           | [Reshaping and Merging data](https://wesmckinney.com/book/data-wrangling)                              | []() |
+| R - Introduction to Tidyverse                           | [Mais sobre manipulação de dados](https://www.youtube.com/watch?v=_T8LGqJtuGc&t=23s)                   | []() |
+| R - Data Manipulation & Viz - *joins* and *ggplot2*    | [Introduction to `Tidyverse`](https://chat.openai.com/share/b7183cba-6be9-4548-8022-d8c36cc0c9be)      | []() |
+| R - Manipulation I: *dplyr*                            | [`dplyr` cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf)         | []() |
+| R - Data Manipulation & Viz - more on *tidyverse*      | []()                                                                                       | []() |
+| R - Data Manipulation & Viz - *strings* and *dates*    | []()                                                                                       | []() |
+| R - Data Manipulation & Viz - more on *tidyverse*      | []()                                                                                       | []() |
+| R - Data Manipulation & Viz - *strings* and *dates*    | []()                                                                                       | []() |
+| R - Maps in R I - leaflet                     | []()                                                                                                   | []() |
+| R - Quarto - PDFs                            | []()                                                                                                   | []() | 
+| R - Quarto - Presentations                   | []()                                                                                                   | []() |
+| R - Functions and Conditionals               | []()                                                                                                   | []() |
+| R - Loops in R I                             | []()                                                                                                   | []() |
+| R - Loops in R II                            | []()                                                                                                   | []() |
 :::
