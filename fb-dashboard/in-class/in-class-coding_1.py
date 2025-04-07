@@ -1,25 +1,21 @@
-#### In-class Coding 1 ####
+# Exercício 1:
+# Escreva um programa que utilize a função print para exibir a seguinte mensagem no console:
+# "Bem-vindo ao curso de Introdução à Programação!"
 
-## Exercício 1 - Desenvolva seu primeiro programa! ##
+# Exercício 2:
+# Comente a linha abaixo e depois execute o programa. O que acontece?
+# print("Essa linha não será executada.")
 
-# Especificações:
-#   - Printar dois 'positional arguments'
+# Exercício 3:
+# Crie três variáveis: `nome`, `idade` e `cidade`. Atribua valores a elas e depois use a função print
+# para exibir a seguinte mensagem:
+# "Meu nome é <nome>, tenho <idade> anos e moro em <cidade>."
 
-#   - Use um *keyword argument* da função print para
-#     ter uma exclamação no final da mensagem
+# Exercício 4: erro proposital
+# O código abaixo contém um erro. Identifique e corrija-o para que funcione corretamente.
+# print("O resultado é: " + 42)
 
-#   - Use um *keyword argument* da função print para
-#     ter um separador entre os *positional arguments*
-
-## Indentação (indentation)
-
-
-## (b) Mudando nosso programa
-#   - Crie um programa que dê olá ("Hello") para você (seu nome)!
-
-
-## (c) Melhorando nosso programa I
-#   - Faça com que seu programa te pergunte qual o seu nome,
-#     antes de dar Olá
-
-
+# Exercício 5: 
+# Escreva um programa que peça ao usuário seu nome e idade e, em seguida, exiba a seguinte mensagem:
+# "Olá, <nome>! No próximo ano, você terá <idade + 1> anos."
+# Dica: Use a função input() e conversão de tipos para resolver esse problema.

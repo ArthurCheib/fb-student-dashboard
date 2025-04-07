@@ -2,19 +2,17 @@ project:
   type: website
 
 website:
-  title: "Economia - Turma 2024"
+  title: "Economia - Turma 2025"
   navbar:
     left:
       - text: "Cronograma"
         file: index.qmd
       - text: "Material de Apoio"
         file: material.qmd
-      - text: 'Datasets'
-        file: dataset.qmd
         
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2024, [Arthur Silva Cheib](https://www.linkedin.com/in/arthurcheib/) "
+    left: "&copy; Copyright 2025, [Arthur Silva Cheib](https://www.linkedin.com/in/arthurcheib/) "
     background: "#409EE8"
 
 editor: source
