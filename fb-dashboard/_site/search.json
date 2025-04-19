@@ -7,20 +7,6 @@
     "text": "Essa página funciona como um Hub para todos os documentos relevantes referentes à disciplina de Introdução à Programação, lecionada para os alunos do curso de Ciências Econômicas da Faculade Belavista.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAula\nData\nTópico\nSlides\nIn-class Coding\nMonitoria\nLab\n\n\n\n\n\n1\n27/2\nIntrodução à Programação\n🖥\n💻\n\n\n\n\n\n2\n29/2\nFunções e Variáveis\n🖥\n💻\n\n\n\n\n\n3\n5/3\nTipos de Dados & Operadores\n🖥\n💻\n\n\n\n\n\n4\n7/3\nEscrevendo Funções\n🖥\n💻\n\n\n\n\n\n5\n12/3\nConditionals\n🖥\n💻\n📖\n\n\n\n\n6\n14/3\nData Structures: Lists\n🖥\n\n\n\n\n\n\n7\n19/3\nLoops: while\n🖥\n💻\n\n\n\n\n\n8\n22/3\nLoops: for\n🖥\n💻\n\n📖\n\n\n\n9\n26/3\nData Structures: Dictionaires\n🖥\n💻\n📖\n\n\n\n\n10\n2/4\nInput / Output Data\n🖥\n💻\n📖\n\n\n\n\n11\n5/4\nInput / Output Data\n🖥\n💻\n📖\n\n\n\n\n12\n9/4\nList Comprehension\n🖥\n💻\n📖"
   },
   {
-    "objectID": "dataset.html",
-    "href": "dataset.html",
-    "title": "Disciplina de Introdução à Programação",
-    "section": "",
-    "text": "Essa contém todos os conjuntos de dados utilizados em sala de aula\n\nRJ Crimes Dataset: download\nGapminder Dataset: download\nChicago Traffic Dataset: download"
-  },
-  {
-    "objectID": "atividades.html",
-    "href": "atividades.html",
-    "title": "Atividades Avaliativas",
-    "section": "",
-    "text": "Nessa aba se encontram todas as atividades avaliativas já disponibilizadas aos estudantes da disciplina de Introdução à Programação. A maior parte delas se encontra em formato de script.\n\n\n\n\n\n\n\n\n\n\n\nData\nLinguagem\nIn-class\nLab\nProject\n\n\n\n\n29/2\nPython\n01 - 💻\n\n\n\n\n5/3\nPython\n02 - 💻\n\n\n\n\n7/3\nPython\n03 - 💻\n\n\n\n\n12/3\nPython\n04 - 💻\n\n\n\n\n4/3\nPython\n05 - 💻\n\n\n\n\n19/3\nPython\n06 - 💻\n\n\n\n\n22/3\nPython\n\nExercício + Dados Prévios\n\n\n\n6/3\nPython\n07 - 💻\n\n\n\n\n2/4\nPython\n08 - 💻\n\n\n\n\n5/4\nPython\n09 - 💻\n\n\n\n\n9/4\nPython\n10 - 💻\n\n\n\n\n12/4\nPython\n\nExercício + Dados Testes\n\n\n\n15/4\nPython\n11 - 💻\n\n\n\n\n7/5\nPython\n12 - 💻\n\n\n\n\n10/5\nPython\n\n\n\n\n\n14/5\nPython\n\n\n\n\n\n21/5\nR\n12-13 - 💻\n\n\n\n\n24/5\nR\n14 - 💻\n\n\n\n\n28/5\nR\n15 - 💻\n\n\n\n\n4/6\nR\n16 - 💻\n\n\n\n\n11/6\nR\nFunctions and Conditionals\n\n\n\n\n14/6\nR\nLoops: for & while\n\n\n\n\n18/6\nR\nData Visualization III: leaflet\n\n\n\n\n21/6\nR\nPresenting: Quarto II"
-  },
-  {
     "objectID": "material.html",
     "href": "material.html",
     "title": "Disciplina de Introdução à Programação",
